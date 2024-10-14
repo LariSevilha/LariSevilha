@@ -1,6 +1,9 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&letterSpacing=&pause=1000&color=2938F3&center=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Back+End+Rails)](https://git.io/typing-svg)
+- ⚡ Analysis and System Development
 - 🌱 back end developer
+
+![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **LariSevilha/lariSevilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
