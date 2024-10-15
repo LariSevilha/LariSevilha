@@ -1,4 +1,9 @@
-## Hi there 👋
+
+<div align="center">
+	
+## <h2 style="color:red"> puts 'Hello World!'</h3> 👋
+
+</div> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&letterSpacing=&pause=1000&color=2938F3&center=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Back+End+Rails)](https://git.io/typing-svg)
  
