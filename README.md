@@ -1,7 +1,7 @@
 
 <div align="center">
 	
-## <h2 style="color:red"> puts 'Hello World!'</h3> 👋
+## <h2 style="color:red"> puts 'Hello World!'</h2> 
 
 </div> 
 
